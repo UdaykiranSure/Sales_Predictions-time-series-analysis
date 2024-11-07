@@ -1,1 +1,1 @@
-Furniture slaes prediction
+Furniture sales prediction
